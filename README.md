@@ -21,11 +21,14 @@ This project uses an Excel file with orders and sales data (2009–2012) from RK
 - Which consumer customer was the most profitable one?
 - Which customer returned items and what segment do they belong to?
 
-- ## Tools & Techniques Used
-- Pivot Tables & Pivot Charts
-- Lookup Functions
-- Visual filters (slicers)
 - Dashboard Interaction <a href="https://github.com/PritheeTheAnalyst/Excel-London-RKY-store/blob/main/Screenshot%20(455).png">view dashoard</a>
 
 ## Dashboard
+<img width="1920" height="1013" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/8c4f861c-8c40-4f3e-932f-7e51ad3df7ef" />
 
+## Tools & Techniques Used
+- Pivot Tables & Pivot Charts
+- Lookup Functions
+- Visual filters (slicers)
+- 
+## Project Insights
