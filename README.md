@@ -30,5 +30,16 @@ This project uses an Excel file with orders and sales data (2009–2012) from RK
 - Pivot Tables & Pivot Charts
 - Lookup Functions
 - Visual filters (slicers)
-- 
+
 ## Project Insights
+- uneven distribution of revenue across the business as small number of product categories and regions generated the highest share of total sales
+- top customers contributed significantly more revenue than the majority of customers
+- the bottom customers placed fewer and smaller orders
+- high shipping costs were incurred for low-priority orders, indicating potential inefficiencies in shipping decisions and cost management.
+
+## Final Conclusion
+Stakeholders should focus on three aspects:
+- investing more in high-performing products and regions,
+- introduce targeted incentives to increase revenue from low-value customers,
+- and optimize shipping methods based on order priority to reduce unnecessary costs and improve efficiency.
+
