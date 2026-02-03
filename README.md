@@ -4,4 +4,13 @@ Using a retail sales dataset, I analyzed sales performance, customer behavior, s
 ## Purpose of the Project
 This project uses an Excel file with orders and sales data (2009–2012) from RKY Store, a Liverpool-based store in London that sells office supplies and furniture, to examine customer orders and purchasing choices.
 ## Dataset Used
-<a href="https://github.com/PritheeTheAnalyst/Excel-London-RKY-store/blob/main/london-rky-data.xlsx">Excel RKY Store Data</a>
+- <a href="https://github.com/PritheeTheAnalyst/Excel-London-RKY-store/blob/main/london-rky-data.xlsx">Excel RKY Store Data</a>
+## Questions (KPIs) Part A
+### Sales & Customer Performance Analysis
+- Which product category had the highest sales?
+- What are the Top 3 and Bottom 3 Regions with regards to sales?
+- What were the total sales of appliances in Ontario?
+- RMS incurred the most shipping cost using which shipping method?
+- Who are the most valuable customers and what do they purchase?
+
+## Questions(KPIs)
