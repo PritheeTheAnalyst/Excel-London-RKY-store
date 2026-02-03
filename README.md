@@ -16,7 +16,8 @@ This project uses an Excel file with orders and sales data (2009–2012) from RK
 ## Questions(KPIs) Part B
 ### Operational Efficiency
 - Which small business customer had the highest sales?
-- Which Corporate Customer placed the greatest number of orders in 2009 –2012? How many orders were placed by the corporate customer?
+- Which Corporate Customer placed the greatest number of orders in 2009 –2012?
+- How many orders were placed by the corporate customer?
 - Which consumer customer was the most profitable one?
 - Which customer returned items and what segment do they belong to?
 
