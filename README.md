@@ -1,4 +1,4 @@
-# Excel-London-RKY-store(interactive pivot tables and charts)
+# Excel-London-RKY-Store(Interactive Pivot Tables & Charts)
 ## Project Description
 Using a retail sales dataset, I analyzed sales performance, customer behavior, shipping costs, and profitability in Microsoft Excel to answer real-world business questions and provide data-driven insights. I utilised pivot tables, charts, slicers, comprehensive dashboards, and lookup functions such as INDEX-MATCH.
 ## Purpose of the Project
@@ -20,5 +20,4 @@ This project uses an Excel file with orders and sales data (2009–2012) from RK
 - How many orders were placed by the corporate customer?
 - Which consumer customer was the most profitable one?
 - Which customer returned items and what segment do they belong to?
-
-
+Dashboard Interaction <a href="https://github.com/PritheeTheAnalyst/Excel-London-RKY-store/blob/main/Screenshot%20(455).png">view dashoard</a>
