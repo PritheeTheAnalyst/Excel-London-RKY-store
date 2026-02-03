@@ -4,4 +4,4 @@ Using a retail sales dataset, I analyzed sales performance, customer behavior, s
 ## Purpose of the Project
 This project uses an Excel file with orders and sales data (2009–2012) from RKY Store, a Liverpool-based store in London that sells office supplies and furniture, to examine customer orders and purchasing choices.
 ## Dataset Used
-<a href>"https://github.com/PritheeTheAnalyst/Excel-London-RKY-store/blob/main/london-rky-data.xlsx">Excel RKY Store Data</a>
+<a href="https://github.com/PritheeTheAnalyst/Excel-London-RKY-store/blob/main/london-rky-data.xlsx">Excel RKY Store Data</a>
